@@ -20,5 +20,3 @@ master 4
 master 5
 
 sesta grana
-
-master 7
