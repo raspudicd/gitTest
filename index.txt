@@ -5,3 +5,5 @@ još neki tekst druge grane
 main dodatak
 
 master
+
+master 2
