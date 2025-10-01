@@ -14,3 +14,5 @@ još master komm
 komit četvrte grane
 
 master xxx
+
+master 123
