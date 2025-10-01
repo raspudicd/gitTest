@@ -1,0 +1,14 @@
+
+Table "RISK"."CITY" created.
+
+
+INDEX "RISK"."U_CITY_CODE_VALIDFROM_VALIDTO" created.
+
+
+INDEX "RISK"."P_CITY_ID" created.
+
+
+Error starting at line : 36 in command -
+  ALTER TABLE "RISK"."CITY" MODIFY ("ID" NOT NULL ENABLE)
+Error report -
+ORA-01442: column to be modified to NOT NULL is already NOT NULL
