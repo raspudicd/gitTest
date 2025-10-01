@@ -12,3 +12,5 @@ adb push c:\1\IMG
 još master komm
 
 komit četvrte grane
+
+master xxx
