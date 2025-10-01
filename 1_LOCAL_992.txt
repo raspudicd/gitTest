@@ -1,6 +1,0 @@
-
-adb push c:\1\IMG_20170930_154757.jpg /storage/emulated/0/IMG_20170930_154757.jpg
-
-adb push c:\1\IMG_20170930_154757.jpg /storage/emulated/0/IMG_20170930_154757.jpg
-
-adb push c:\1\IMG

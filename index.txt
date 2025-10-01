@@ -1,13 +1,12 @@
 početni tekst
 
 još neki tekst druge grane
-<<<<<<< HEAD
+
 još neki tekst trece grane
 
 tekst trece grane
-=======
 
 main dodatak
 
 master
->>>>>>> master
+
