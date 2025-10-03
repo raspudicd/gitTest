@@ -12,3 +12,5 @@ Error starting at line : 36 in command -
   ALTER TABLE "RISK"."CITY" MODIFY ("ID" NOT NULL ENABLE)
 Error report -
 ORA-01442: column to be modified to NOT NULL is already NOT NULL
+
+master 456
