@@ -24,3 +24,5 @@ sesta grana
 master 6
 
 master 7 asfsafsf
+
+master i deveta
